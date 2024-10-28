@@ -103,4 +103,7 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![Dashboard for Quality Metric](https://github.com/user-attachments/assets/b13921ca-184a-4d1f-b6ed-a47a2bb6d527)
 
+![Dashboard for Employee Analysis](https://github.com/user-attachments/assets/ccf65d3d-09aa-4ccf-be7e-d56bdd01a624)
+
+
 
