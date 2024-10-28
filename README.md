@@ -47,7 +47,7 @@ Data Description
 
  
 
-Dataset of 1000 rows will be extracted from Lai manufacturing Plc database. This dataset will be analyzed to understand the pain point of the business. The attributes include:
+Dataset of 1000 rows was extracted from Lai manufacturing Plc database. This dataset will be analyzed to understand the pain point of the business. The attributes include:
 
  
 
