@@ -101,3 +101,6 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![Dashboard for Product Analysis](https://github.com/user-attachments/assets/2bb8c0f3-b814-45b1-b4fc-19db3d329a93)
 
+![Dashboard for Quality Metric](https://github.com/user-attachments/assets/b13921ca-184a-4d1f-b6ed-a47a2bb6d527)
+
+
