@@ -105,5 +105,8 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![Dashboard for Employee Analysis](https://github.com/user-attachments/assets/ccf65d3d-09aa-4ccf-be7e-d56bdd01a624)
 
+![Dashboard for lead time](https://github.com/user-attachments/assets/f4196155-c5a1-4bff-9c91-4cb03a6fd771)
+
+
 
 
