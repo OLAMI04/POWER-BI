@@ -94,3 +94,8 @@ C. Data Exploration &Analysis: The dataset is explored and analyzed to find tren
  
 
 D. Data Visualization: The dataset is visualized in form of dashboard, reports and sent to the stakeholders for effective decision-making.
+
+
+## DashBoard Summary
+![Dashboard for Operation Analysis Overview](https://github.com/user-attachments/assets/61b89f28-cf66-40a7-9289-cfcb77eb2681)
+
