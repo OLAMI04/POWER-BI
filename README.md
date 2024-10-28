@@ -1,4 +1,6 @@
-#  Business Overview/Problem
+# Enhance operational efficiency in a manufacturing company using Power BI
+
+##  Business Overview/Problem
 
 
 The manufacturing landscape is not without its challenges, and Lai Manufacturing Plc understands the intricacies of optimizing processes, enhancing operational efficiency, proactively addressing issues, and mitigating risks. Their journey has not been without its hurdles, including the need for real-time reporting, ensuring top-notch data performance, and simplifying complex reports. Others include:
@@ -15,7 +17,7 @@ The manufacturing landscape is not without its challenges, and Lai Manufacturing
      
     E. Supply Chain: Coordination with suppliers and distributors could be improved to reduce lead times and enhance overall supply chain efficiency.
 
-# Rationale for the Project
+## Rationale for the Project
 
     Operation Analytics refers to the process of collecting, analyzing, and visualizing data from various operational sources within an organization to derive actionable insights and improve overall efficiency. For a complex and multifaceted entity like Lai Manufacturing Plc, where industrial machinery and home appliances are produced, the utilization of Operation Analytics is paramount.
 
@@ -27,7 +29,7 @@ The manufacturing landscape is not without its challenges, and Lai Manufacturing
 
     Furthermore, the ability to visualize data in real time provides a holistic view of the entire manufacturing ecosystem. This empowers Lai Manufacturing Plc's leadership to make informed decisions, adapt to market trends swiftly, and respond to customer demands with agility. In an era where customer expectations evolve rapidly, the ability to customize production and product lines in real time is a game-changer.
 
-# Aim of the Project
+## Aim of the Project
 
  
 
@@ -72,14 +74,14 @@ Dataset of 1000 rows will be extracted from Lai manufacturing Plc database. This
     ✓ Employee_Rating: The rating or performance assessment of the employee involved in the operation, typically on a scale from 1 to 5.
     ✓ Downtime_Reason: The reason for any downtime experienced during the operation. Possible reasons may include "Material Shortage," "Technical Issues," or "Human Error."
 
-# Tech Stack
+## Tech Stack
 
  
 
 Power BI: A data visualization and business intelligence tool that aids in analysis by allowing users to transform raw data into meaningful insights and interactive reports. It helps extract data from sources, enable data exploration,  perform data modeling, and create visually engaging dashboards and reports.
 
  
-# Project Scope
+## Project Scope
 
 A. Data Importation: Lai Manufacturing Plc. data is imported into Power BI environment.
 
