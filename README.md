@@ -99,3 +99,5 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 ## DashBoard Summary
 ![Dashboard for Operation Analysis Overview](https://github.com/user-attachments/assets/61b89f28-cf66-40a7-9289-cfcb77eb2681)
 
+![Dashboard for Product Analysis](https://github.com/user-attachments/assets/2bb8c0f3-b814-45b1-b4fc-19db3d329a93)
+
