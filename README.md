@@ -107,6 +107,9 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![Dashboard for lead time](https://github.com/user-attachments/assets/f4196155-c5a1-4bff-9c91-4cb03a6fd771)
 
+![Dashboard for Downtown Time](https://github.com/user-attachments/assets/aa4a707b-ff87-4cab-866d-3880f75e7a2f)
+
+
 
 
 
