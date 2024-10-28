@@ -109,7 +109,7 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![Dashboard for Downtown Time](https://github.com/user-attachments/assets/aa4a707b-ff87-4cab-866d-3880f75e7a2f)
 
-
+[Data Set](https://github.com/OLAMI04/POWER-BI/blob/main/Dataset/Manufacturing_data%20(1)(1).csv)
 
 
 
